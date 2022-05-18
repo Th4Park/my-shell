@@ -14,9 +14,10 @@ or
 Easy Detailed Tutorial here: https://telegra.ph/ShellBot-Cloning-Tutorial-08-22
 
 
-# How to deploy?
+# How to deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+<!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) -->
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Th4Park/my-shell)
 
 This is a fully functional shellrunner [Telegram bot][]. You tell it a
 command, it executes it and posts the live output. You can send input to the
